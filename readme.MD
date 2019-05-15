@@ -1,0 +1,2 @@
+this repo is used to mess around the code of fairnsquare, a game created by a guy named Dani.
+the video of the development of this game can be found [here](https://www.youtube.com/watch?v=gzPGmR6R67Y).
